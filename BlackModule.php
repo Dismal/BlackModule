@@ -2,7 +2,8 @@
 
 /**
  * BlackModule
- * @author Dmitry Kuznetsov (https://github.com/Dismal/BlackModule)
+ * @author Dmitry Kuznetsov (mrbinwin@gmail.com)
+ * @link https://github.com/Dismal/BlackModule
  * @version 1.0
  *
  * This module protects your website content from being copied.
