@@ -107,7 +107,6 @@ class NoCopyWidget extends CWidget
 			'backstreet',
 			'backweb',
 			'badass',
-			'baiduspider',
 			'bandit',
 			'batchftp',
 			'becomebot',
